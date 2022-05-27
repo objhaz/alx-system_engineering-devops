@@ -1,1 +1,1 @@
-Task 0: tthis script is to Write a script that prints the absolute path name of the current working directory.
+Task 1: This script is to Display the contents list of your current directory
