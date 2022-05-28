@@ -1,1 +1,1 @@
-this repo is for shell basics
+variuos scripts for shell permission tasks
