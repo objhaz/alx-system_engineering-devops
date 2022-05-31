@@ -6,3 +6,5 @@ Task 4: script to display the last 10 lines
 Task 5: script to display the first 10 lines of /etc/hosts
 Task 6: script that display the third line of iacta file
 script to craete an exact named file
+Task 8: Write a script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it.
+Task 9: script that duplicates the last line of the file iacta
