@@ -2,3 +2,5 @@ Task 0: script to Write a script that prints “Hello, World”, followed by a n
 Task 1: script to display a confused smily
 Task 3: script to display the content of the /etc/passwd file
 Task 3: script to display the content of /etc/passwd and /etc/hosts
+Task 4: script to display the last 10 lines
+Task 5: script to display the first 10 lines of /etc/hosts
