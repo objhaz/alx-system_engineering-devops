@@ -17,3 +17,8 @@ Task 16: script that Display lines containing the pattern “root” and 3 lines
 Task 17: script that Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 Task 18: script to Display all lines of the file /etc/ssh/sshd_config starting with a letter
 Task 19: script to Replace all characters A and c from input to Z and e respectively.
+Task 20: script to removes all letters c and C from input.
+Task 21: script that reverse its input.
+Task 22: to Write a script that displays all users and their home directories, sorted by users
+Task 23: script that finds all empty files and directories in the current directory and all sub-directories.
+Task 24: to Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
