@@ -1,2 +1,1 @@
-variuos scripts for shell permission tasks
-this directory contains the shell task direcory
+0x04. Loops, conditions and parsing
